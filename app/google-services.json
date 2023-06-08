@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259757202590",
+    "project_id": "entradasysalidas-97ecc",
+    "storage_bucket": "entradasysalidas-97ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259757202590:android:529f1e3947b7acfd342f8f",
+        "android_client_info": {
+          "package_name": "com.embriotecno.entradasysalidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259757202590-l9hevn71v530lj2elj2nks7c4hr4itst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59AMkJ575bNqG19WdVBsd6CSoE1jiXkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259757202590-l9hevn71v530lj2elj2nks7c4hr4itst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
