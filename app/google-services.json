@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "259757202590",
-    "project_id": "entradasysalidas-97ecc",
-    "storage_bucket": "entradasysalidas-97ecc.appspot.com"
+    "project_number": "910764978140",
+    "project_id": "inventario-semen",
+    "storage_bucket": "inventario-semen.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:259757202590:android:529f1e3947b7acfd342f8f",
+        "mobilesdk_app_id": "1:910764978140:android:c0eaa8f716a2be0e246919",
         "android_client_info": {
           "package_name": "com.embriotecno.entradasysalidas"
         }
       },
       "oauth_client": [
         {
-          "client_id": "259757202590-l9hevn71v530lj2elj2nks7c4hr4itst.apps.googleusercontent.com",
+          "client_id": "910764978140-551fed1n8rq9e1qsv3ukl0bsr5ehm7l7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB59AMkJ575bNqG19WdVBsd6CSoE1jiXkc"
+          "current_key": "AIzaSyAeECAHSzAvDaz4oPfNU_f4ZuTO99Zk7Gg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "259757202590-l9hevn71v530lj2elj2nks7c4hr4itst.apps.googleusercontent.com",
+              "client_id": "910764978140-551fed1n8rq9e1qsv3ukl0bsr5ehm7l7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
